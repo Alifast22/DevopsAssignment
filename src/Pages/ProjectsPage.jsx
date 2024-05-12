@@ -5,8 +5,8 @@ const projects = [
   { id: 1, title: 'Payroll Management', TechStack: 'Javascript' },
   { id: 2, title: 'Ecommerce Store', TechStack: 'Javascript' },
   { id: 3, title: 'Plag Checker', TechStack: 'C#' },
-  { id: 4, title: 'Rental Car', TechStack: 'C' },
-  { id: 5, title: 'Phishing Detection', TechStack: 'Python' },
+  // { id: 4, title: 'Rental Car', TechStack: 'C' },
+  // { id: 5, title: 'Phishing Detection', TechStack: 'Python' },
 ];
 
 // Project Modal Component
